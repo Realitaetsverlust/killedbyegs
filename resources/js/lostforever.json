@@ -1,0 +1,29 @@
+{
+    "1": {
+        "title": "Crayta",
+        "bornAt": "2020-06-01",
+        "diedAt": "2023-02-01",
+        "developer": "Unit 2 Games",
+        "description": "Crayta was a collaborative game creation platform built on Unreal Engine 4. It was acquired by Meta in June 2022 and closed, allegedly because of the shutting down of Google Stadia.",
+        "status": "dead",
+        "statement": ""
+    },
+    "2": {
+        "title": "Rune II",
+        "bornAt": "2019-11-12",
+        "developer": "Human Head Studios",
+        "description": "Rune II is a 3rd person Viking adventure game. The game presumably failed because due to the epic financing deal, there was no incentive to actually make the game good or playable. The developer took the money and then released the game unfinished and in an abysmal state.",
+        "status": "abandoned",
+        "review": "https://hardcoregamer.com/reviews/review-rune-ii-decapitation-edition/392826/",
+        "statement": ""
+    },
+    "3": {
+        "title": "Rumbleverse",
+        "bornAt": "2022-08-11",
+        "diedAt": "2023-02-28",
+        "developer": "Iron Galaxy",
+        "description": "Rumbleverse was a free-to-play brawler battle royale. It was published by epic games publishing and was shut down just 6 months after launch. Reasons are unknown, but it's suspected that extremely low player count was the reason for the shutdown.",
+        "status": "dead",
+        "statement": "https://www.rumbleverse.com/en/news/sunset-on-grapital-city"
+    }
+}
