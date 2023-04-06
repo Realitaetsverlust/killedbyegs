@@ -29,6 +29,9 @@
             <p>
                 The layout of this site was heaviely inspired by <a href="https://www.killedbygoogle.com">killedbygoogle.com</a>.
             </p>
+            <p>
+                The source code for this website is open sourced on <a href="https://github.com/Realitaetsverlust/killedbyegs">GitHub</a>. Contributions are welcome.
+            </p>
         </div>
     </div>
 </footer>
